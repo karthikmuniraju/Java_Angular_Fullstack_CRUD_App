@@ -3,7 +3,7 @@
 _Transform Data, Empower Growth, Accelerate Success_
 
 Built with the tools and technologies:  
-`Java` `JSON` `Markdown` `npm` `XML` `TypeScript` `Bootstrap`
+`Java` `JSON` `Markdown` `npm` `XML` `TypeScript` `Bootstrap` `Angular`
 
 ---
 
