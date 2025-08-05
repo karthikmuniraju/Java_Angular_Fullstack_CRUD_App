@@ -41,7 +41,7 @@ This project aims to simplify the development of full-stack web applications wit
 
 This project requires the following dependencies:
 
-- **Programming Language:** TypeScript
+- **Programming Language:** TypeScript,Java,Angular
 - **Package Manager:** Maven, npm
 
 ---
