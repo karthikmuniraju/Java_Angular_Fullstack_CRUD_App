@@ -1,77 +1,108 @@
-JAVA_ANGULAR_FULLSTACK_CRUD_APP
+# JAVA_ANGULAR_FULLSTACK_CRUD_APP
 
-Transform Data, Empower Growth, Accelerate Success
+_Transform Data, Empower Growth, Accelerate Success_
 
-last-commit repo-top-language repo-language-count
-Built with the tools and technologies:
+Built with the tools and technologies:  
+`Express` `JSON` `Markdown` `npm` `XML` `TypeScript` `Bootstrap`
 
-Express JSON Markdown npm XML TypeScript Bootstrap
+---
 
-Table of Contents
+## Table of Contents
 
-Overview
-Getting Started
-Prerequisites
-Installation
-Usage
-Testing
-Overview
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
 
-Java_Angular_Fullstack_CRUD_App is a complete full-stack project that combines an Angular frontend with a Spring Boot backend to deliver a scalable CRUD application. It exemplifies best practices in project structure, dependency management, and testing, making it an ideal starting point for enterprise-grade development.
+---
 
-Why Java_Angular_Fullstack_CRUD_App?
+## Overview
+
+**Java_Angular_Fullstack_CRUD_App** is a complete full-stack project that combines an Angular frontend with a Spring Boot backend to deliver a scalable CRUD application.  
+It exemplifies best practices in project structure, dependency management, and testing, making it an ideal starting point for enterprise-grade development.
+
+### Why `Java_Angular_Fullstack_CRUD_App`?
 
 This project aims to simplify the development of full-stack web applications with a focus on employee management. The core features include:
 
-🛠️ 🔧 RESTful API Integration: Seamless communication between Angular and Spring Boot for CRUD operations.
-🚀 Server-Side Rendering: Angular Universal setup for improved performance and SEO.
-📦 Modular Architecture: Clear separation of concerns with dedicated modules, components, and services.
-🧪 Built-in Testing: Comprehensive unit tests ensure reliability and maintainability.
-🌐 Configurable Build & Deployment: Structured configuration files streamline development and production workflows.
-Getting Started
+- 🔗 **RESTful API Integration:** Seamless communication between Angular and Spring Boot for CRUD operations.
+- 🚀 **Server-Side Rendering:** Angular Universal setup for improved performance and SEO.
+- 📐 **Modular Architecture:** Clear separation of concerns with dedicated modules, components, and services.
+- ✔️ **Built-in Testing:** Comprehensive unit tests ensure reliability and maintainability.
+- ⚙️ **Configurable Build & Deployment:** Structured configuration files streamline development and production workflows.
 
-Prerequisites
+---
+
+## Getting Started
+
+### Prerequisites
 
 This project requires the following dependencies:
 
-Programming Language: TypeScript
-Package Manager: Maven, Npm
-Installation
+- **Programming Language:** TypeScript
+- **Package Manager:** Maven, npm
 
-Build Java_Angular_Fullstack_CRUD_App from the source and install dependencies:
+---
 
-Clone the repository:
+### Installation
 
-❯ git clone https://github.com/karthikmuniraju/Java_Angular_Fullstack_CRUD_App
-Navigate to the project directory:
+Build `Java_Angular_Fullstack_CRUD_App` from the source and install dependencies:
 
-❯ cd Java_Angular_Fullstack_CRUD_App
-Install the dependencies:
+1. **Clone the repository:**
+    ```
+    git clone https://github.com/karthikmuniraju/Java_Angular_Fullstack_CRUD_App
+    ```
 
-Using maven:
+2. **Navigate to the project directory:**
+    ```
+    cd Java_Angular_Fullstack_CRUD_App
+    ```
 
-❯ mvn install
-Using npm:
+3. **Install the dependencies:**
 
-❯ npm install
-Usage
+    - Using **Maven**:
+      ```
+      mvn install
+      ```
+    - Using **npm**:
+      ```
+      npm install
+      ```
+
+---
+
+## Usage
 
 Run the project with:
 
-Using maven:
+- Using **Maven**:
+    ```
+    mvn exec:java
+    ```
 
-mvn exec:java
-Using npm:
+- Using **npm**:
+    ```
+    npm start
+    ```
 
-npm start
-Testing
+---
 
-Java_angular_fullstack_crud_app uses the {test_framework} test framework. Run the test suite with:
+## Testing
 
-Using maven:
+`Java_Angular_Fullstack_CRUD_App` uses the `(test_framework)` test framework.  
+Run the test suite with:
 
-mvn test
-Using npm:
+- Using **Maven**:
+    ```
+    mvn test
+    ```
+- Using **npm**:
+    ```
+    npm test
+    ```
 
-npm test
-⬆ Return
+---
+
+**_Happy coding!_**
