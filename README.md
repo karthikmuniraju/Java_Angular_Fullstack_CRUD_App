@@ -18,6 +18,7 @@ _Transform Data, Empower Growth, Accelerate Success_
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/angular?logo=angular&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/angular_just)
 
 ---
 
