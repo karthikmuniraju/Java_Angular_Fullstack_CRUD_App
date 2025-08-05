@@ -2,8 +2,22 @@
 
 _Transform Data, Empower Growth, Accelerate Success_
 
-Built with the tools and technologies:  
-`Java` `JSON` `Markdown` `npm` `XML` `TypeScript` `Bootstrap` `Angular`
+![GitHub last commit](https://img.shields.io/github/last-commit/karthikmuniraju/Java_Angular_Fullstack_CRUD_App?style=flat-square)
+![TypeScript](https://img.shields.io/badge/typescript-58.5%25-blue?style=flat-square)
+![Languages](https://img.shields.io/badge/languages-4-lightgrey?style=flat-square)
+
+---
+
+**Built with the tools and technologies:**
+
+![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white&style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-grey?logo=json&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![npm](https://img.shields.io/badge/npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-blue?logo=xml&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/angular?logo=angular&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -41,7 +55,7 @@ This project aims to simplify the development of full-stack web applications wit
 
 This project requires the following dependencies:
 
-- **Programming Language:** TypeScript,Java,Angular
+- **Programming Language:** TypeScript
 - **Package Manager:** Maven, npm
 
 ---
